@@ -4,10 +4,9 @@
 ![python License](https://img.shields.io/badge/MADE%20WITH-Pygames-green.svg)
 
 <p align="center">
-  <a href="https://github.com/arevish/A*-Pathfinding-Visualizer" rel="noopener">
-    
-  ![Pathfinding visualizer](https://user-images.githubusercontent.com/40190772/83947303-6ece9280-a816-11ea-9ac3-72e28ad8af18.png)
-  
+  <a href="https://github.com/arevish/A-Pathfinding-Visualizer" rel="noopener">
+  ![Pathfinding visualizer](https://user-images.githubusercontent.com/91308138/184955087-b58ebf71-53dd-44e2-9ba6-e2fc61eba300.png)
+
   </a>
 </p>
 
@@ -27,6 +26,7 @@ This astar pathfinding algorithm is an informed search algorithm which means it 
 - A* is a graph traversal and path search algorithm, which is often used in computer science due to its completeness, optimality, and optimal efficiency. One major practical drawback is its O(bd) space complexity, as it stores all generated nodes in memory. Thus, in practical travel-routing systems, it is generally outperformed by algorithms which can pre-process the graph to attain better performance, as well as memory-bounded approaches; however, A* is still the best solution in many cases.
  
 ### DEMO - 
+![pathvizudemo](https://user-images.githubusercontent.com/91308138/184954955-f242b75c-d761-4d91-805a-d42803decea0.gif)
 
 PLEASE FEEL FREE TO FORK THE PROJECT AND START CONTRIBUTING. :)
 
@@ -51,9 +51,8 @@ In your preferred editor, make sure indentation is set to "4 spaces".
 ---
 
 ## Run using Python3.8+
-1. Clone or download repositiory: https://github.com/arevish/A*-PathFinding-Visualizer.git
+1. Clone or download repositiory: https://github.com/arevish/A-PathFinding-Visualizer.git
 2. In source folder, run `python3 'main.py'` to start program, optionally, run with `--help` argument to see other runtime options.
  
 ### ThankYou!
-
-  ![](C:\coding projects\path finder vizu\apath.png)
+![apath](https://user-images.githubusercontent.com/91308138/184955004-fbbb507e-7c97-46a8-bea6-17f133a8514e.png)
