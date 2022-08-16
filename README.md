@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/arevish/A-Pathfinding-Visualizer" rel="noopener">
+    
   ![Pathfinding visualizer](https://user-images.githubusercontent.com/91308138/184955087-b58ebf71-53dd-44e2-9ba6-e2fc61eba300.png)
 
   </a>
@@ -55,4 +56,5 @@ In your preferred editor, make sure indentation is set to "4 spaces".
 2. In source folder, run `python3 'main.py'` to start program, optionally, run with `--help` argument to see other runtime options.
  
 ### ThankYou!
-![apath](https://user-images.githubusercontent.com/91308138/184955004-fbbb507e-7c97-46a8-bea6-17f133a8514e.png)
+<img src ="https://user-images.githubusercontent.com/91308138/184955004-fbbb507e-7c97-46a8-bea6-17f133a8514e.png" width="100" height="100">
+
